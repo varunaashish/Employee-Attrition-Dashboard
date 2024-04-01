@@ -1,4 +1,4 @@
-# HR Analytics Dashboard_Power BI
+# Employee Attrition Dashboard
 The primary objective of this project is to conduct comprehensive analysis of the employee attrition within the organisation. The analysis will involve identifying the key drivers of employee turnover and provide actionable insights to HR Department for developing effective retention strategies. 
 
 # Key Insights:
