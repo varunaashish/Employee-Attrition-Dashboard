@@ -2,7 +2,7 @@
 The primary objective of this project is to conduct comprehensive analysis of the employee attrition within the organisation. The analysis will involve identifying the key drivers of employee turnover and provide actionable insights to HR Department for developing effective retention strategies. 
 
 # Key Insights:
--The organization had workforce of 1470 employees members. Out of which 237 employees have left the organization which results in 16.1% of attrition rate.
+-Out of the total workforce of 1470 employees, 237 members have left the organization, resulting in an attrition rate of 16.1%, reflecting the turnover within the company during the specified period.
 
 -The average age of workforce in the organization is 37 years.
 
@@ -10,12 +10,12 @@ The primary objective of this project is to conduct comprehensive analysis of th
 
 -On an average, an employee works with the organization for 7 years.
 
--Employees with Life Science as Educational background have left the organization most. 37.6% attrition has happened in Life Science field.
+-The field of Life Science has experienced the highest attrition rate within the organization, with a significant 37.6% of employees with this educational background departing from their roles, indicating potential challenges or trends specific to this field.
 
--Employee in the age group of 26-35 have left the organization most.
+-The age group of 26-35 years witnessed the highest rate of employee attrition within the organization, indicating a notable trend of turnover among individuals in this demographic unit.
 
--Employee who have monthly salary up to 5K are leaving the organization most. This is because they are earning lesser than average monthly income which is 6.5K .
+-Employees with monthly salaries up to 5K are displaying the highest attrition rates, likely influenced by their earnings falling below the average monthly income of 6.5K within the organization.
 
--Employees who are completing 2 years at the organization are leaving the organization most. Next peaks we can see upon completion of 5 years and 10 years.
+-The data reveals a notable trend where the highest attrition occurs among employees completing their 2 years at the organization, with 59 individuals leaving during this period. Subsequent peaks in attrition are observed at the completion of 5 and 10 years of tenure, suggesting critical points where retention efforts may need to be focused to mitigate turnover rates effectively.
 
--Most attrition has happened in Laboratory Technician job role, followed by Sales Executive and Research Scientists. Here we also notice that employees of these 3 job roles had given most unsatisfied rating ( 1 and 2). Thus it leads to most attrition in these Job Roles.
+-The highest attrition rates were observed among Laboratory Technicians, Sales Executives, and Research Scientists, coinciding with a notable trend of dissatisfaction among employees in these roles, as indicated by frequent ratings of 1 and 2. This correlation suggests a potential link between job satisfaction levels and employee turnover, emphasizing the importance of addressing underlying issues within these job roles to mitigate attrition.
